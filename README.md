@@ -1,2 +1,2 @@
-# black Superheroes
+# Black Superheroes
 A random Black superhero generator
